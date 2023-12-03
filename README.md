@@ -3,7 +3,7 @@
 </div>
 <hr/>
 <div>
-<h2 align="center">:japanese_ogre:About Me:japanese_ogre: </h2>
+<h2 align="center">About Me</h2>
 <p><i>I am a Junior Front End developer. I like to complete
 challenging tasks, and analyze technical problems to
 accurately resolve them. I have experience of following
@@ -12,7 +12,7 @@ in which I used HTML, CSS, JS, React technologies. I am
 focused on learning and gaining more skills.</i></p><hr/>
 </div>
 <div>
-  <h2 align="center">:nerd_face:Education:nerd_face:</h2>
+  <h2 align="center">Education</h2>
   <p><i>National University of Ukraine
 ‘Lviv Polytechnic’ <br/>
 Bachelor's degree, Automation and computer-
@@ -22,7 +22,7 @@ IT School ‘Okten School’ (Lviv) <br/>
 Mar 2023 - Oct 2023</i></p><hr/>
 </div>
 <div>
-    <h2 align="center">:hammer_and_wrench:Languages and Tools:hammer_and_wrench:</h2>
+    <h2 align="center">Languages and Tools</h2>
     <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
