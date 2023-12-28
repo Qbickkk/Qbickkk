@@ -19,7 +19,7 @@ Bachelor's degree, Automation and computer-
 integrated technologies <br/>
 Sep 2018 - Jul 2022 <br/> <br/>
 IT School ‘Okten School’ (Lviv) <br/>
-Mar 2023 - Oct 2023</i></p><hr/>
+Mar 2023 - Dec 2023</i></p><hr/>
 </div>
 <div>
     <h2 align="center">Languages and Tools</h2>
