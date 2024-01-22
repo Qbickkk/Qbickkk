@@ -13,7 +13,7 @@ focused on learning and gaining more skills.</i></p><hr/>
 </div>
 <div>
   <h2 align="center">Education</h2>
-  <p><i>National University of Ukraine
+  <p align="center"><i>National University of Ukraine
 ‘Lviv Polytechnic’ <br/>
 Bachelor's degree, Automation and computer-
 integrated technologies <br/>
@@ -23,7 +23,7 @@ Mar 2023 - Dec 2023</i></p><hr/>
 </div>
 <div>
     <h2 align="center">Languages and Tools</h2>
-    <div>
+    <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
