@@ -33,5 +33,8 @@ Mar 2023 - Dec 2023</i></p><hr/>
 </div>
 </div>
 <hr/>
-  <img src="https://github.com/Qbickkk/Qbickkk/assets/96394576/8bb10aab-5ef7-40f2-816d-abd99c07d05d" alt="cv" width="400" height="580" align="center"/>
+<div align="center">
+    <h2>Curriculum Vitae</h2>
+    <img src="https://github.com/Qbickkk/Qbickkk/assets/96394576/8bb10aab-5ef7-40f2-816d-abd99c07d05d" alt="cv" width="400" height="580"/>
+</div>
 <hr/>
