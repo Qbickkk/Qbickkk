@@ -33,6 +33,6 @@ Mar 2023 - Dec 2023</i></p><hr/>
 </div>
 </div>
 <hr/>
-  <img src='https://github.com/Qbickkk/Qbickkk/files/14016164/Illia_Shulika_junior_frontend_developer.pdf' alt='cv'/>
+  <img src="https://github.com/Qbickkk/Qbickkk/files/14016164/Illia_Shulika_junior_frontend_developer.pdf" alt="cv"/>
 />
 <hr/>
