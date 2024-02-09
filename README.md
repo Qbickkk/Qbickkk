@@ -13,12 +13,12 @@ focused on learning and gaining more skills.</i></p><hr/>
 </div>
 <div>
   <h2 align="center">Education</h2>
-  <p align="center"><i>National University of Ukraine
-‘Lviv Polytechnic’ <br/>
+  <ul align="center"><li><i>National University of Ukraine
+‘Lviv Polytechnic’</li><br/>
 Bachelor's degree, Automation and computer-
 integrated technologies <br/>
 Sep 2018 - Jul 2022 <br/> <br/>
-IT School ‘Okten School’ (Lviv) <br/>
+<li>IT School ‘Okten School’ (Lviv)</li> <br/>
 Mar 2023 - Dec 2023</i></p><hr/>
 </div>
 <div>
