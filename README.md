@@ -13,7 +13,7 @@ focused on learning and gaining more skills.</i></p><hr/>
 </div>
 <div>
   <h2 align="center">Education</h2>
-  <ul align="center"><li><i>National University of Ukraine
+  <ul><li><i>National University of Ukraine
 ‘Lviv Polytechnic’</li><br/>
 Bachelor's degree, Automation and computer-
 integrated technologies <br/>
