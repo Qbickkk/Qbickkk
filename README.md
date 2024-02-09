@@ -4,7 +4,7 @@
 <hr/>
 <div>
 <h2 align="center">About Me</h2>
-<p><i>Front-End Developer. I like to complete
+<p align="center"><i>Front-End Developer. I like to complete
 challenging tasks, and analyze technical problems to
 accurately resolve them. I have experience of following
 scrum methodology while working in a team on projects
