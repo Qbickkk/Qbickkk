@@ -4,12 +4,9 @@
 <hr/>
 <div>
 <h2 align="center">About Me</h2>
-<p align="center"><i>Front-End Developer. I like to complete
-challenging tasks, and analyze technical problems to
-accurately resolve them. I have experience of following
-scrum methodology while working in a team on projects
-in which I used HTML, CSS, JS, React technologies. I am
-focused on learning and gaining more skills.</i></p><hr/>
+<p align="center"><i>Trainee/Junior Front-End Developer. 
+  I like to complete challenging tasks, and analyze technical problems to accurately resolve them. 
+  I'm focused on learning and gaining more skills.</i></p><hr/>
 </div>
 <div>
   <h2 align="center">Education</h2>
