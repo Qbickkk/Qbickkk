@@ -32,6 +32,7 @@ Mar 2023 - Dec 2023</i></p><hr/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" title="intellijIDEA" alt="intellijIDEA" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" title="intellijIDEA" alt="MySQL" width="40" height="40"/>&nbsp;
   
 
 
