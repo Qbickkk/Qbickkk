@@ -6,7 +6,8 @@
 <h2 align="center">About Me</h2>
 <p align="center"><i>
   Trainee/Junior Front-End Developer. 
-   I simply adore completing challenging tasks. I like analyzing technical problems and trying to accurately resolve them. I'm focused on learning and and I’m interested in developing more skills.</i></p><hr/>
+I adore completing challenging tasks. I like analyzing technical problems and trying to resolve them accurately. I'm focused on learning and developing my hard and soft skills.
+</i></p><hr/>
 </div>
 <div>
   <h2 align="center">Education</h2>
