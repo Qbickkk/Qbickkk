@@ -5,7 +5,7 @@
 <div>
 <h2 align="center">About Me</h2>
 <p align="center"><i>
-  Trainee/Junior Front-End Developer. 
+ Front-End Developer. 
 I adore completing challenging tasks. I like analyzing technical problems and trying to resolve them accurately. I'm focused on learning and developing my hard and soft skills.
 </i></p><hr/>
 </div>
